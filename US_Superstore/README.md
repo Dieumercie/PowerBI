@@ -58,8 +58,9 @@ Identifier les meilleures opportunités d'amélioration en comparant le chiffre 
 
 ## Vue d'ensemble
 
-![Image](https://github.com/user-attachments/assets/8ccf6b31-2f3a-4700-b104-7af1cd6c9e6c)
-![Image](https://github.com/user-attachments/assets/455bbd0c-2f3e-4ecd-8444-96acfbadcbef)
+![image](https://github.com/user-attachments/assets/780ca94d-530f-40ab-a0b9-345b97da0a22)
+![image](https://github.com/user-attachments/assets/c5da1ea1-5659-41cc-9755-c08040e04251)
+
 
 
 🚀 Installation et Utilisation
