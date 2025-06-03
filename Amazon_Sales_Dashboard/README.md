@@ -59,9 +59,9 @@ Un tableau détaillant chaque transaction avec :
 
 ## Vue d'ensemble
 
-![Image](https://github.com/user-attachments/assets/04bae814-57d3-48d2-9ded-b92a6d8eb5fb)
+![image](https://github.com/user-attachments/assets/7a365f49-4d3c-4329-911d-031491dd35af)
+![image](https://github.com/user-attachments/assets/0f680b3f-14de-4589-886d-8f1275598b21)
 
-![Image](https://github.com/user-attachments/assets/6ca1abfa-c7b0-400e-b628-9d0591cebd14)
 
 🚀 Installation et Utilisation
 
