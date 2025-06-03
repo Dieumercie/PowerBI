@@ -10,14 +10,12 @@
 
 
 ## Indicateurs Clés 
-    (KPIs)Nombre total de commandes : 5 009K
-    Quantité totale vendue : 38K
-    Nombre de clients uniques : 793
-    Chiffre d'affaires (CA) : $2.30M
-    Montant total du profit : $286.41K
-    Marge bénéficiaire (%) : 12.47%
-
-![Image](https://github.com/user-attachments/assets/ebb17d2f-5644-4481-9ae8-181ae57d04fe)
+    (KPIs)Nombre total de commandes
+    Quantité totale vendue
+    Nombre de clients uniques
+    Chiffre d'affaires (CA) 
+    Montant total du profit
+    Marge bénéficiaire (%)
 
 ## Analyses Disponibles
 
@@ -28,15 +26,12 @@
 * Produit le plus rentable : Canon imageCLASS 2200 Advanced Copier - $25,199.928
 * Produit le plus cher : Canon imageCLASS 2200 Advanced Copier - $61,599.824
 
-![Image](https://github.com/user-attachments/assets/63a416e8-28fc-4708-aaa3-7404bbc1f8c8)
 
 📈Tableau des sous-catégories de produits 
 
 * Quantité vendue
 * Montant des ventes
 * Profit (avec visualisation des gains/pertes)
-
-![Image](https://github.com/user-attachments/assets/a17c4af1-3032-4764-b941-45114c01893c)
 
 📈Performance des Clients
 
@@ -60,7 +55,6 @@ Identifier les meilleures opportunités d'amélioration en comparant le chiffre 
 
 ![image](https://github.com/user-attachments/assets/780ca94d-530f-40ab-a0b9-345b97da0a22)
 ![image](https://github.com/user-attachments/assets/c5da1ea1-5659-41cc-9755-c08040e04251)
-
 
 
 🚀 Installation et Utilisation
