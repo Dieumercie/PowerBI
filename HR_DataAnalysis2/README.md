@@ -36,12 +36,15 @@ Le dashboard inclut des filtres permettant de segmenter les données par :
 
 ## **Vue d'ensemble**
 
-![Image](https://github.com/user-attachments/assets/af76d6c7-9656-4561-ab21-e475d6214999)
-![Image](https://github.com/user-attachments/assets/f53fff59-1cfa-48eb-94cc-cd0ed5d26e29)
+![image](https://github.com/user-attachments/assets/5a187998-29c9-4ccf-a57f-aa2edc8be095)
+![image](https://github.com/user-attachments/assets/6ae2302a-30e0-4fa8-9e5b-7f450c6e634a)
+
+
 
 🚀 Installation et Utilisation
 
 1️⃣ Prérequis :
 
 Power BI Desktop
+
 Fichier de données source (CSV) - Kaggle
