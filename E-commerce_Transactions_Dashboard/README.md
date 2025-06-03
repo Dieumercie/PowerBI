@@ -72,9 +72,9 @@ Ce tableau de bord Power BI fournit une analyse détaillée des transactions e-c
 📌 Optimisation des stratégies marketing : Comprendre quelles catégories de produits sont les plus populaires.
 
 ## Vue d'ensemble
+![image](https://github.com/user-attachments/assets/34e6137e-8d1a-490a-9624-12a6f52a3007)
+![image](https://github.com/user-attachments/assets/35c6eb89-624c-4fae-bad0-7791dd386298)
 
-![Image](https://github.com/user-attachments/assets/ffdf599e-17e6-48e8-9c92-5719dbf448fa)
-![Image](https://github.com/user-attachments/assets/6ff7f1e6-9591-4982-85d4-8162a9a00047)
 
 🚀 Installation et Utilisation
 
